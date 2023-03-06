@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/home"
+        android:title="Negızgı"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/news"
+        android:title="Jañalyqtar"
+        android:icon="@drawable/ic_news"/>
+
+    <item
+        android:id="@+id/basket"
+        android:title="Sebet"
+        android:icon="@drawable/basket"/>
+    <item
+        android:id="@+id/book"
+        android:title="Kıtaptar"
+        android:icon="@drawable/book"/>
+    <item
+        android:id="@+id/check"
+        android:title="Deñgeiım"
+        android:icon="@drawable/check"/>
+</menu>

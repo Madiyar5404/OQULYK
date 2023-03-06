@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".OqulykActivity">
+
+    <include
+        android:id="@+id/toolBarOqulyk"
+        layout="@layout/toolbar2">
+
+    </include>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt45"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="15dp"
+                android:padding="5dp"
+                android:text="Tūraqty türde"
+                android:textColor="#000000"
+                android:textSize="32dp"
+                app:fontFamily="@font/amarante" />
+
+            <TextView
+                android:id="@+id/txt46"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="-15dp"
+                android:padding="5dp"
+                android:text="QADAM"
+                android:textColor="#F45826"
+                android:textStyle="bold"
+                android:textSize="27dp"
+                app:fontFamily="@font/aref_ruqaa" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="55dp"
+            android:padding="5dp"
+            android:text="22.02.2022"
+            android:textColor="#000000"
+            android:textSize="22dp"
+            android:textStyle="bold"
+            app:textAllCaps="true" />
+
+    </LinearLayout>
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/oqulyk_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp" />
+</LinearLayout>

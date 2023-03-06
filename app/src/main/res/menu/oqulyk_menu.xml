@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="KITAP QOSU"
+        android:id="@+id/add_oqulyk"/>
+
+    <item android:title="KÜNDI ÖZGERTU"
+        android:id="@+id/show_Calendar"/>
+    <item android:title="MENIÑ DEÑGEİIM"
+        android:id="@+id/show_attendance"/>
+
+</menu>

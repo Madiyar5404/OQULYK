@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OQULYK</string>
+    <string name="qoshkeldiniz">Kıtap älemıne qoch keldıñız!</string>
+    <string name="kiru">KIRU</string>
+    <string name="tirkel">TIRKELU</string>
+    <string name="ras">RASTAU</string>
+    <string name="esim">Esımıñız</string>
+    <string name="poshta">Jeke pochtañyz</string>
+    <string name="qupia">Qūpia söz</string>
+    <string name="Cqupia">Qūpia sözdı rastau</string>
+    <string name="umytu">Qūpia sözdı ūmytu</string>
+    <string name="janadan">Jañadan tırkelu</string>
+    <string name="kir">Kıru bölımı</string>
+    <string name="otin">Ötınemın, bas ärıppen jazyñyz</string>
+    <string name="nov">Jaña qoldanuşymyn? Tırkelu</string>
+    <string name="abai_sozi">Paida oilama, ar oila\nTalap qyl artyq bıluge\nArtyq bılım kıtapta\nErınbe oqyp köruge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

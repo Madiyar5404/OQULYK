@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/aclonica</item>
+        <item>@font/adamina</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/amarante</item>
+        <item>@font/archivo_black</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/arya</item>
+        <item>@font/asul</item>
+        <item>@font/audiowide</item>
+        <item>@font/baumans</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/caudex</item>
+        <item>@font/cinzel_decorative</item>
+        <item>@font/norm</item>
+    </array>
+</resources>
